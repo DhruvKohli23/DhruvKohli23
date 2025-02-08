@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning softwares such as SQL and Power BI
 - 💞️ I’m looking to collaborate on projects and internships
 - 📫 How to reach me  dhruvkohli2305820@gmail.com
-- 😄 Pronouns: ...He/Him
 
 
 <!---
